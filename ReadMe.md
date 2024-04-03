@@ -8,7 +8,7 @@ Uses CMakeDeps and CMakeToolchain conan generators.
 ### CMake >= 3.21
 
 ```shell
-$ cmake --preset=default
+$ cmake --preset=default .
 $ cmake --build --preset=default
 ```
 
